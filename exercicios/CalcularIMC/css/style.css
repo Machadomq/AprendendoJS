@@ -56,3 +56,22 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
+
+.resultado-imc {
+  color: white;
+  background-color: green;
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+
+.paragrafo-resultado, .bad{
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.bad{
+  background-color: rgb(255, 121, 121);
+}
